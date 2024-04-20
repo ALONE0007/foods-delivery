@@ -326,6 +326,7 @@ ul li:not(:first-child) a {
     text-transform: uppercase;
     color: var(--color_C90000);
     position: relative;
+    margin-top: 20px;
 }
 
 .row-menu-of-products {
