@@ -820,7 +820,7 @@ input:focus::placeholder {
 
 
 
-/* .goog-te-gadget,
+ .goog-te-gadget,
 .google_translate_element {
     width: 69px;
     position: fixed;
@@ -830,4 +830,4 @@ input:focus::placeholder {
 
 iframe {
     display: none;
-} */
+}
