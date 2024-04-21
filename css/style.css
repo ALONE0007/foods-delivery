@@ -811,12 +811,11 @@ input:focus::placeholder {
 
 
 
- .goog-te-gadget{
+ .goog-te-gadget , .google_translate_element{
     width: 69px;
     position: fixed;
     top: 0;
     right: 50%;
-
 }
 iframe{
     display: none;
