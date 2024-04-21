@@ -67,6 +67,11 @@ img {
     padding: 0 0.5rem;
 }
 
+::selection {
+    background-color: rgba(255, 166, 0, 0.233);
+    color: rgba(56, 48, 1, 0.781);
+}
+
 .navigation {
     align-items: center;
     display: grid;
@@ -418,6 +423,10 @@ body {
 
 .title__food {
     font-size: 20px;
+}
+
+.title__food h4 {
+    white-space: nowrap;
 }
 
 .dec__food {
@@ -809,17 +818,16 @@ input:focus::placeholder {
 
 
 
-::selection{
-    background-color: rgb(105, 245, 180);
-    color: rgb(0, 85, 119);
-}
 
- .goog-te-gadget , .google_translate_element{
+
+/* .goog-te-gadget,
+.google_translate_element {
     width: 69px;
     position: fixed;
     top: 0;
     right: 50%;
 }
-iframe{
+
+iframe {
     display: none;
-}
+} */
