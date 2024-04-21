@@ -809,7 +809,10 @@ input:focus::placeholder {
 
 
 
-
+::selection{
+    background-color: rgb(105, 245, 180);
+    color: rgb(0, 85, 119);
+}
 
  .goog-te-gadget , .google_translate_element{
     width: 69px;
