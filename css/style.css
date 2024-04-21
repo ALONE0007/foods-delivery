@@ -811,8 +811,12 @@ input:focus::placeholder {
 
 
 
-.skiptranslate {
-    width: 200px;
+ .goog-te-gadget{
+    width: 69px;
+    position: fixed;
+    top: 0;
+    right: 50%;
+
 }
 iframe{
     display: none;
