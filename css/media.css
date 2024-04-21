@@ -175,6 +175,28 @@
     .header-bottom {
         grid-template-columns: repeat(1, 1fr);
     }
+    /*  */
+    /*  */
+    /*  */
+    /*  */
+    /*  */
+    /*  */
+    /*  */
+    /*  */
+    .header-btns {
+        display: flex;
+        flex-direction: column;
+        row-gap: 5px;
+    }
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
 
     .header-bottom__left p {
         margin: 2rem 0rem;
