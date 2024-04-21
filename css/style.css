@@ -800,3 +800,20 @@ input:focus::placeholder {
     color: black;
     padding-left: 10%;
 }
+
+
+
+
+
+
+
+
+
+
+
+.skiptranslate {
+    width: 200px;
+}
+iframe{
+    display: none;
+}
