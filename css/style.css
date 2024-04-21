@@ -820,8 +820,9 @@ input:focus::placeholder {
 
 
 
- .goog-te-gadget,
-.google_translate_element {
+.goog-te-gadget,
+.google_translate_element,
+.skiptranslate {
     width: 69px;
     position: fixed;
     top: 0;
