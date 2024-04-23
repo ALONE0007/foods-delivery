@@ -8,6 +8,12 @@
 
 body {
     font-family: 'Poppins Regular';
+    position: relative;
+    top: 0px !important;
+    overflow-x: hidden;
+}
+iframe{
+    display: none;
 }
 
 button {
