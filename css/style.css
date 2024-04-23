@@ -823,7 +823,6 @@ input:focus::placeholder {
     border-radius: 30% 13% 30% 13%;
     color: var(--color_fff);
 }
-
 .footer-items_grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
