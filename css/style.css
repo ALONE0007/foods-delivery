@@ -5,8 +5,7 @@
     text-decoration: none;
     list-style: none;
 }
-
-body {
+html,body {
     font-family: 'Poppins Regular';
     position: relative;
     top: 0px !important;
@@ -131,6 +130,7 @@ ul li:not(:first-child) a {
     display: flex;
     justify-content: flex-end;
 }
+
 
 .nav_menu_sidebar {
     position: fixed;
@@ -896,21 +896,17 @@ input:focus::placeholder {
 
 
 
-
-
-
-
-
-
-/* .goog-te-gadget,
-.google_translate_element,
-.skiptranslate {
-    width: 69px;
-    position: fixed;
-    top: 0;
-    right: 50%;
+.salammm{
+    background-color: red;
+    border: 1px solid black;
+    margin-top: 2rem;
+    width: 500px;
+    padding: 2rem;
+    position: absolute;
 }
 
-iframe {
-    display: none;
-} */
+
+
+
+
+
